@@ -51,6 +51,9 @@
 > **Don't run, just crawl**         - [Sumit Saha](https://web.facebook.com/sumit.analyzen "Sumit Saha on facebook")
 ---
 <br>
-### 📕 Latest Blog Posts
-*
+
+### Latest Blog Posts: 📕
+
+
+- [ভাষা পরিচিতিঃ টাইপস্ক্রিপ্ট](https://www.techdiary.dev/mohammad-mesbaul-haque/vasha-priciti-taipskript-H2YJ6S "techdiary/mesba/post")
 
