@@ -1,12 +1,14 @@
-## Hi there, I'm [Mesba](https://about.me/mohammad_mesbaul_haque/getstarted "about.me/Mesba") <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there, I'm [Mesba](https://about.me/mohammad_mesbaul_haque/getstarted "about.me/Mesba") <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br/> ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-mesbaul-haque&color=brightgreen&style=plastic)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Node.js+Developer;">
+</p>
 
 ---
-
 #### I'm Mesbaul Haque, a **MERN** stack web developer. I love programming from my heart. I mostly like to work with Node JS and microservice architecture. I always enjoy learning new technologies.
 
 ---
 
----
+
 
 ## 📫 Reach me out !
 
@@ -22,7 +24,6 @@
 
 
 
-<br />
 <br>
 
 ### Languages and Tools:
@@ -47,7 +48,10 @@
 
 ---
 
- ### Favorite Quote:
+ ### Favorite Quotes:
+> **Any fool can write code that a computer can understand. Good programmers write code that humans can understand** – [Martin Fowler](https://martinfowler.com "Martin Fowler") <br/> 
+<br/>
+
 > **Don't run, just crawl**         - [Sumit Saha](https://web.facebook.com/sumit.analyzen "Sumit Saha on facebook")
 ---
 <br>
