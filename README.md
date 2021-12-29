@@ -4,7 +4,7 @@
 </p>
 
 ---
-#### I'm Mesbaul Haque, a **Node Js**  developer. I love programming from my heart. I mostly like to work with Javascript and microservice architecture. I always enjoy learning new technologies.
+#### I am Mesbaul Haque, a **Node Js**  lover. I love programming from my heart. I mostly like to work with Javascript and microservice architecture and always enjoy learning new technologies.
 
 ---
 
@@ -44,9 +44,13 @@
 
 
 
+<br>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmesba&layout=compact)
+
+<br>
 
 ---
-
  ### Favorite Quotes:
 > **Any fool can write code that a computer can understand. Good programmers write code that humans can understand** – [Martin Fowler](https://martinfowler.com "Martin Fowler") <br/> 
 <br/>
