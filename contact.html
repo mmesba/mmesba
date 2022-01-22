@@ -15,18 +15,13 @@
  <!-- Custom Css -->
  <link rel="stylesheet" href="./assets/sass/style.css">
 
- <!-- <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'> -->
+ <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
- 
  <title>Portfolio of Mesbaul Haque</title>
- <!-- Js Linkup -->
- 
- <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
- <script src="assets/js/hover.zoom.js"></script>
- <script src="assets/js/hover.zoom.conf.js"></script>
  
  </head>
  <body>
+    <!-- Static navbar -->
     <div class="navbar navbar-inverse navbar-static-top">
         <div class="container">
           <div class="navbar-header">
@@ -35,11 +30,11 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html" >MESBAUL</a>
+            <a class="navbar-brand" href="index.html">MESBAUL</a>
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="project.html">Projects</a></li>
+              <li><a href="work.html">Work</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="blog.html">Blog</a></li>
               <li><a href="contact.html">Contact</a></li>
@@ -47,12 +42,44 @@
           </div><!--/.nav-collapse -->
         </div>
       </div>
-
-
-      <h1 class="maintenance">Sorry for inconvenience! Site is under maintenance mood.</h1>
-
-
-      <!-- +++++ Footer Section +++++ -->
+      
+      
+      <!-- +++++ Contact Section +++++ -->
+      
+      <div class="container pt">
+          <div class="row mt">
+              <div class="col-lg-6 col-lg-offset-3 centered">
+                  <h3>CONTACT ME</h3>
+                  <hr>
+                  <p id="contact-txt">If you need to get in touch, feel free to ping me here</p>
+              </div>
+          </div>
+          <div class="row mt">	
+              <div class="col-lg-8 col-lg-offset-2">
+                  <form role="form" method="post" action="http://mesba.azurewebsites.net/submit">
+                    <div class="form-group">
+                      <input type="name" name="name" class="form-control" id="NameInputEmail1" placeholder="Your Name" required>
+                      <br>
+                    </div>
+                    <div class="form-group">
+                      <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email" required>
+                      <br>
+                    </div>
+                    <div class="form-group">
+                      <input type="text" name="subject" class="form-control" id="subjectEmail1" placeholder="Subject" required>
+                      <br>
+                    </div>
+                    <textarea class="form-control"  name="txt" rows="6" placeholder="Enter your text here" required></textarea>
+                      <br>
+                    <button type="submit" class="btn btn-success">SUBMIT</button>
+                  </form>    			
+              </div>
+          </div><!-- /row -->
+      </div><!-- /container -->
+      
+      
+         <!-- +++++ Footer Section +++++ -->
+         <!-- Static footer -->
 	
 	<div id="footer">
 		<div class="container">
@@ -86,12 +113,7 @@
 
 
 
-
-    <!-- <script src="https://unpkg.com/scrollreveal"></script>
-     -->
-
-    <script src="assets/js/bootstrap.min.js"></script>
-
+    <script src="https://unpkg.com/scrollreveal"></script>
 
  </body>
 </html>
