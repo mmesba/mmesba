@@ -16,7 +16,7 @@
 
 ## Me at a glance
 
-- 🌱 I’m currently developing my own by learning a lot
+- 🌱 I’m currently developing my own by learning: Docker, Jest.
 - 💻 I'm in ❤️ with   <code><img height="19" width="19" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> and currently working on it
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to **travel**, watch **soccer** and boundless **sleep** 😴
