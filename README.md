@@ -13,9 +13,19 @@
 ## 📫 Reach me out !
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmesba/ "linkedin/mesbaul")  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesbaul333@gmail.com "Direct Mail") [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&logo=portfolio)](https://mesba.live/ "mesba's portfolio")
- [![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/MOHAMMAD-MESBAUL-HAQUE "quora/mesbaul") [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13907066/mohammad-mesbaul-haque "stackoverflow/mesbaul")
+ [![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/MOHAMMAD-MESBAUL-HAQUE "quora/mesbaul") 
 
-## Me at a glance
+ <!-- [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13907066/mohammad-mesbaul-haque "stackoverflow/mesbaul") -->
+
+
+## Download Resume
+<a href="https://mmesba.github.io/mmesba/Achievements%20&%20Certifications/Mesbaul's%20Resume%20.pdf" download>
+  <img src="https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&color=orange">
+</a>
+
+<br/>
+
+## Me at a glance :
 
 - 🌱 I’m currently developing my own by learning: Docker, Jest.
 - 💻 I'm in ❤️ with   <code><img height="19" width="19" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> and currently working on it
@@ -27,7 +37,7 @@
 
 <br>
 
-### Languages and Tools:
+## Languages and Tools :
 <br>
 <!-- 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
@@ -52,7 +62,7 @@
 <br>
 
 ---
- ### Favorite Quotes:
+ ## Favorite Quotes :
 > **Any fool can write code that a computer can understand. Good programmers write code that humans can understand** – [Martin Fowler](https://martinfowler.com "Martin Fowler") <br/> 
 <br/>
 
@@ -60,7 +70,7 @@
 ---
 <br>
 
-### Latest Blog Posts: 📕
+## Latest Blog Posts : 📕
 
 
 - [ভাষা পরিচিতিঃ টাইপস্ক্রিপ্ট](https://www.techdiary.dev/mohammad-mesbaul-haque/vasha-priciti-taipskript-H2YJ6S "techdiary/mesba/post")
