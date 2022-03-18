@@ -60,6 +60,14 @@
 <!--   GitHub stats graph -->
 ![Mesba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmesba&theme=radical&layout=compact)
 
+
+
+### 📈 GitHub Activity Graph:
+![Mesba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mmesba&hide_border=true&theme=redical)
+
+
+
+
 <br>
 
 ---
