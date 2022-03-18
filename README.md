@@ -57,7 +57,8 @@
 
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmesba&layout=compact)
+<!--   GitHub stats graph -->
+![Mesba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmesba&theme=radical&layout=compact)
 
 <br>
 
